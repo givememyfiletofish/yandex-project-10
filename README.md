@@ -1,4 +1,4 @@
-# Social ImageSharing App (react)
+# yandex project 10
 
  Link: https://givememyfiletofish.github.io/yandex-project-10/
 
