@@ -18,7 +18,6 @@
 
 
 .popup {
-  display: block;
   position: fixed;
   width: 100%;
   height: 100%;
@@ -27,6 +26,6 @@
   left: 0;
   color: black;
   visibility: hidden;
-  transition: opacity .3s, visibility .3s;
+  transition: opacity .3s, visibility 0.3s;
   opacity: 0;
 }
